@@ -1,6 +1,5 @@
 # SAPFARANI
 ## Projeto final 
-(POSSIVEL IMAGEM)
 ### Desenvolvimento
  **O Projeto foi desenvolvido Por:**
 * **Allyson Alcantra**
