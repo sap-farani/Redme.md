@@ -2,7 +2,7 @@
 ## Projeto final 
 ### Desenvolvimento
  **O Projeto foi desenvolvido Por:**
-* **Allyson Alcantra**
+* **Allyson Alcantara**
 
 [Git](https://github.com/AllyssonAlcantaraCosta) [Linkedin](https://www.linkedin.com/in/allysson-costa-a95bb611b/)
 
